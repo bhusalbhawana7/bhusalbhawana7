@@ -1,6 +1,6 @@
 <!-- ========================= BANNER ========================= -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/junaidmir1212/junaidmir1212/main/banner.png" />
+  <img src="https://raw.githubusercontent.com/bhusalbhawana7/bhusalbhawana7/main/banner.png" />
 </p>
 
 <!-- ========================= NAME / INTRO ========================= -->
